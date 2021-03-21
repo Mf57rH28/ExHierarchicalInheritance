@@ -1,0 +1,2 @@
+# ExHierarchicalInheritance
+Example Hierarchical Inheritance
